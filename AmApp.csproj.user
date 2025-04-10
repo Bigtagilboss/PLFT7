@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Pages\CreateFactWorkers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\CreatePasport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\EditOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\OperationsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\PasportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Pages\ViewMetal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Reports\Report_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
